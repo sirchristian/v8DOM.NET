@@ -1,0 +1,7 @@
+syntax: glob
+bin/Debug
+bin/Release
+Debug/
+*.user
+.svn
+obj/
